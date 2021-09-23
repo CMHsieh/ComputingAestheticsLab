@@ -7,17 +7,17 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Computing Aesthetics LAB',  url: 'facts'}
+- {name: '演算美學實驗室',  url: 'facts'}
 - {name: '偽編舞', url: 'resources'}
 - {name: '仿山水',       url: 'sample-posts'}
 - {name: '人工美',      url: 'documentation'}
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+#- {name: 'About',              url: 'about'}
+#- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
-- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
+- {icon: 'IAA', link:    'https://iaa.nctu.edu.tw/'}
+- {icon: 'NYCU', link:   'https://www.nycu.edu.tw/'}
 # - {icon: 'instagram', link:  'https://instagram.com/paululele'}
 # - {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
 # - {icon: 'rss-square', link: 'feed.xml'}
