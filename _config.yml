@@ -10,8 +10,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Computing Aesthetics"
-description:	       "website is transformered from Millennial Jekyll theme and powered by Github Pages"
+title:		           "演算美學實驗室"
+description:	       "Computing Aesthetics Lab engages in interdisciplinary studies between algorithmic aesthetics and performing arts."
 author:              "CMH"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
