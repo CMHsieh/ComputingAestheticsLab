@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "演算美學實驗室"
+title:		           "Computing Aesthetics"
 description:	       "website is transformered from Millennial Jekyll theme and powered by Github Pages"
 author:              "CMH"
 
