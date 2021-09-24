@@ -4,7 +4,7 @@ title: "About the Author"
 author: "CMH"
 categories: facts
 tags: [about]
-image: impermanence_6.png
+image: impermanence_06.png
 ---
 
 謝啟民 | 
