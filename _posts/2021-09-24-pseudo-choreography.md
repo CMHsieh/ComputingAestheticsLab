@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pseudo Choreography"
+title: "pseudo Choreography"
 author: "CMH"
 categories: pseudo
 tags: [pseudo,about]
