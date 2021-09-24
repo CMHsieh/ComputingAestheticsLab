@@ -1,6 +1,5 @@
 ---
-layout: category
-title: tech-art
-category: techart
+layout: page
+title: Tech-Art
 permalink: /techart
 ---
