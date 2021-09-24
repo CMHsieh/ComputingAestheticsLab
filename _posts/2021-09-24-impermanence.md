@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "無常"
+title: "《無常》"
 author: "CMH"
 categories: pseudo
 tags: [pseudo]
