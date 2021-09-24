@@ -3,7 +3,7 @@ layout: post
 title: "pseudo Choreography"
 author: "CMH"
 categories: pseudo
-tags: [pseudo,about]
+tags: [pseudo]
 image: impermanence_03.png
 ---
 
