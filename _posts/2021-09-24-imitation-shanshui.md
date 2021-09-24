@@ -3,7 +3,7 @@ layout: post
 title: "imitaions of Shanshui"
 author: "CMH"
 categories: imitative
-tags: [imitative,about]
+tags: [imitative]
 image: impermanence_01.png
 ---
 
