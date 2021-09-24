@@ -14,6 +14,16 @@
   @include social-media-icon($envelope-color, $icon-transition-time);
 }
 
+.fa-university {
+  padding: 5px;
+  @include social-media-icon($envelope-color, $icon-transition-time);
+}
+
+.fa-user-graduate {
+  padding: 5px;
+  @include social-media-icon($envelope-color, $icon-transition-time);
+}
+
 .fa-twitter {
   padding: 5px;
   @include social-media-icon($twitter-color, $icon-transition-time);
