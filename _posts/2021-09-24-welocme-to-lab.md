@@ -2,7 +2,7 @@
 layout: post
 title: "The Computing Aesthetics Lab"
 author: "CMH"
-categories: documentation
+categories: about
 tags: [about]
 image: impermanence_04.png
 ---
