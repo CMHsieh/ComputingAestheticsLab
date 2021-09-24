@@ -4,7 +4,7 @@ title: "imitaions of Shanshui"
 author: "CMH"
 categories: imitative
 tags: [imitative]
-image: impermanence_03.png
+image: AncientPaysage_03.jpg
 ---
 
 ## 仿山水
