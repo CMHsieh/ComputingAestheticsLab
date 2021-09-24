@@ -4,7 +4,7 @@ title: "artificial Beauty and Sublime"
 author: "CMH"
 categories: artificial
 tags: [artificial]
-image: AI_01.png
+image: Artbreeder_01.jpg
 ---
 
 ## 仿山水
