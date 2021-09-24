@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "CMH"
-categories: facts
+categories: about
 tags: [about]
 image: impermanence_06.png
 ---
