@@ -1,0 +1,16 @@
+---
+layout: post
+title: "無常"
+author: "CMH"
+categories: pseudo
+tags: [pseudo]
+image: impermanence_06.png
+---
+
+## 無常
+“It was as if the mountains when seen through many millenniums would rise and fall like waves in water”
+「遙望千年群山，層巒疊嶂，宛若波湧漣起」——原文出自印度毗濕奴神話
+
+《無常》由藝術家謝啟民、資深編舞家吳秀蓮與製作人杜玉玲帶領團隊共同創作之跨領域舞蹈作品。
+模擬自然界中的各種流動現象，探討人際的繁複流動；以流體模擬計算出優雅的流動影像，以群體模擬揣摩複雜的社群變遷，搭配上俐落、充滿能量的肢體語彙和巧妙設計的多段群舞。
+透過觀察自然中的各種流動現象以及人際的繁複變化——或狂戀、或依賴、或爭奪、或背叛、或游移，探索生命中的「常」與「無常」，並從兩者的交錯關係中，得出「無常亦常」的體悟。
