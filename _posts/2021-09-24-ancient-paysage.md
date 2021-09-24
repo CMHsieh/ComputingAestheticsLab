@@ -4,7 +4,7 @@ title: "《最古老的風景》"
 author: "CMH"
 categories: imitative
 tags: [imitative]
-image: AncientPaysage_02.jpg
+image: AncientPaysage_04.jpg
 ---
 
 《最古老的風景》The Ancient Paysage  
