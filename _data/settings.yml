@@ -10,8 +10,8 @@ menu:
 - {name: '偽編舞',  url: 'facts'}
 - {name: '仿山水', url: 'resources'}
 - {name: '人工美',       url: 'sample-posts'}
-- {name: '技、藝',      url: 'documentation'}
-- {name: '美、學',              url: 'about'}
+- {name: '技|藝',      url: 'documentation'}
+- {name: '美|學',              url: 'about'}
 #- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
