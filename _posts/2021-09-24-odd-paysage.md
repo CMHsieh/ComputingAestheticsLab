@@ -4,7 +4,7 @@ title: "《歧異的風景》"
 author: "CMH"
 categories: imitative
 tags: [imitative]
-image: OddPaysage_01.jpg
+image: OddPaysage_02.jpg
 ---
 
 《歧異的風景》The Odd Paysage  
