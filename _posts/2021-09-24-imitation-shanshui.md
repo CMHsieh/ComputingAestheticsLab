@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "imitaions of Shanshui"
+title: "仿山水"
 author: "CMH"
 categories: imitative
 tags: [imitative]
