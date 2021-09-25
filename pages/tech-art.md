@@ -4,7 +4,7 @@ title: Tech-Art
 permalink: /techart
 ---
 
-演算美學實驗室主要是培養視覺化程式語言(visual programming / node-based coding)及建構3D虛擬世界(imaginary scenery)核心能力，進而實踐__偽編舞__、__仿山水__、__人工美__專案計畫。  
+演算美學實驗室主要是培養視覺化程式語言(visual programming / node-based coding)及建構3D虛擬世界(imaginary scenery)核心能力，進而實踐 __偽編舞、仿山水、人工美__ 專案計畫。  
 
 -「偽編舞」是以Fluids simulation, Flocking Behavior algorithms 進行動態即時模擬，並應用於表演藝術。想像每一個像素、每一個粒子如同獨立且有個性的舞者，透過演算法介入動作組織，嘗試非以人編舞、非以人舞蹈之慣性，拓展編舞疆域。  
 
