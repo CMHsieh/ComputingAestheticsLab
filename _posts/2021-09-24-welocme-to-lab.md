@@ -2,8 +2,8 @@
 layout: post
 title: "The Computing Aesthetics Lab"
 author: "CMH"
-categories: about
-tags: [about]
+categories: techart
+tags: [about,techart]
 image: impermanence_04.png
 ---
 
