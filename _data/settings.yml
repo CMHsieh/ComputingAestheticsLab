@@ -7,8 +7,8 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: '偽編舞', url: 'pseudo'}
 - {name: '仿山水', url: 'imitative'}
+- {name: '偽編舞', url: 'pseudo'}
 - {name: '人工美', url: 'artificial'}
 - {name: '美|學',  url: 'about'}
 - {name: '技|藝',  url: 'techart'}
