@@ -8,7 +8,7 @@ permalink: /techart
 
 實驗室開發環境過往以Apple's Quartz Composer軟體及程式語言GLSL、OpenCL為開發工具，近年逐漸聚焦以GLSL為專一語言，並且擴增Raymarching algorithm及GPU優化，並且將開發環境轉移為WebGL及Unreal Engine平台，以達到更開放、可跨作業系統之彈性。
 
-技藝關鍵詞：GLSL, Raymarching algorithms, Fluids simulation, Flocking behavior simulation, Subsurface scattering, Volumetric rendering, Hydraulic erosion, Optical flow, Flow velocity map, Carlson’s Theory of Angles, 馬遠水圖卷、郭熙三遠法、韓拙新三遠、杉本博司時間觀...
+關鍵詞：GLSL, Raymarching algorithms, Fluids simulation, Flocking behavior simulation, Subsurface scattering, Volumetric rendering, Hydraulic erosion, Optical flow, Flow velocity map, Carlson’s Theory of Angles, 馬遠水圖卷、郭熙三遠法、韓拙新三遠、杉本博司時間觀...
 
 
 
