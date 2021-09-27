@@ -15,3 +15,14 @@ image: impermanence_06.png
 透過觀察自然中的各種流動現象以及人際的繁複變化——或狂戀、或依賴、或爭奪、或背叛、或游移，探索生命中的「常」與「無常」，並從兩者的交錯關係中，得出「無常亦常」的體悟。
 
 #<iframe width="560" height="315" src="https://www.youtube.com/watch?v=i07PEt7zZhI" frameborder="0" allowfullscreen></iframe>
+
+<!-- Modified from https://github.com/nathancy/jekyll-embed-video -->
+<div class="iframe-container">
+    <iframe
+        src="https://www.youtube.com/embed/i07PEt7zZhI"
+        frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+    </iframe>
+</div>
+
