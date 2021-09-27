@@ -8,4 +8,6 @@ permalink: /lab
 
 The Computing Aesthetics Lab engages in interdisciplinary studies between algorithmic aesthetics and performing arts. The “pseudo-choreography” project, simulated by fluid and flocking simulation, focuses on digital performance that integrates dance, computer graphics, animation and interactive technologies. The “imitations of Shan-Shui” project, inspired by Oriental aesthetics such as Chinese painting and Nihonga painting, focuses on oceanscape, cloudscape and landscape simulation based on atmospheric and volumetric rendering. “The Artificial Beauty and Sublime” project aims to create micro and immersive serenity with help of AI technologies such as generative adversarial networks.
 
+關鍵字：Carlson’s Theory of Angles, 馬遠水圖卷、郭熙三遠法、韓拙新三遠、杉本博司時間觀
+
 [About the Author]({{ site.github.url }}{% post_url 2021-09-24-about-the-author %}).
