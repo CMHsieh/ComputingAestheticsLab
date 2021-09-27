@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tech-Art
+title: 技 藝
 permalink: /techart
 ---
 
