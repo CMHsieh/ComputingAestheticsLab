@@ -19,6 +19,7 @@ image: impermanence_06.png
 <!-- Modified from https://github.com/nathancy/jekyll-embed-video -->
 <div class="iframe-container">
     <iframe
+        width="560" height="315"
         src="https://www.youtube.com/embed/i07PEt7zZhI"
         frameborder="0"
         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
