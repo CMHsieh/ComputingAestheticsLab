@@ -11,3 +11,13 @@ permalink: /techart
 -「仿山水」是以GLSL為語言，著重於translucent, subsurface shading及volumetric rendering，進行新山水畫創作，相較於傳統山水畫，數位新山水更容易著墨於動態、三維空間、微觀巨象化等維度之模擬表現。
 
 -「人工美」使用第三方技術，例如DeepDream, Nvidia GAUGAN, Artbreeder GAN，或是最新發表論文及open source code，保持好奇心及求知慾，持續摸索AI科技與美學的撞擊激盪。
+
+實驗室開發環境過往以Apple's Quartz Composer軟體提供的程式語言GLSL、OpenCL為開發工具，近年逐漸聚焦以GLSL為專一語言、並且擴增Raymarching algorithm，並且將開發環境調整為WebGL及Unreal Engine為平台，以達到更開放、易跨作業系統之彈性。實驗室常用技術名詞如下：
+
++Raymarching Algorithms
++Fluids simulation
++Flocking behavior simulation
++Subsurface scatering
++Volumetric rendering
++Hydraulic Erosion
++Optical Flow, Flow Velocity Map
