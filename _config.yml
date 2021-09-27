@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "演算美學實驗室"
 description:	       "The Computing Aesthetics Lab engages in simulation algorithms, aesthetics and performing arts."
-author:              "CMH, INSTITUTE OF APPLIED ARTS, NATIONAL YANG MING CHIAO TUNG UNIVERSITY"
+author:              "CMH, Institute of Applied Arts, NYCU"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
