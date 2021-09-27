@@ -4,7 +4,7 @@ title: "The Computing Aesthetics Lab"
 author: "CMH"
 categories: techart
 tags: [about,techart]
-image: impermanence_04.png
+image: BlackPaysage_01.png
 ---
 
 ## 演算美學實驗室
