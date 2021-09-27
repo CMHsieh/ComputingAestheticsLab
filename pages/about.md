@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 演算美學實驗室
+title: 演算美學實驗室
 permalink: /about
 ---
 
