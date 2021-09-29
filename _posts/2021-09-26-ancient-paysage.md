@@ -7,11 +7,6 @@ tags: [imitative]
 image: AncientPaysage_04.jpg
 ---
 
-《最古老的風景》The Ancient Paysage  
-年份：2018  
-程式技法：GLSL Shading、Raymarching Algorithm、Water Simulation  
-關鍵字：馬遠水圖、韓拙山水純全集、杉本博司海景  
-
 > 人們如何收藏海？
 > 
 > 海是承載時間的龐大量體。
@@ -23,5 +18,9 @@ image: AncientPaysage_04.jpg
 > 《最古老的風景》運用電腦圖學理論、人工智慧深度學習的方法，結合中國山水畫論與物理程序運算，遙望古代江湖，展現一個在島嶼成長的人，如何用程式寫生敘說對海的細微體察與情感寄寓。
 
 
+《最古老的風景》The Ancient Paysage  
+年份：2018  
+程式技法：GLSL Shading、Raymarching Algorithm、Water Simulation  
+關鍵字：馬遠水圖、韓拙山水純全集、杉本博司海景  
 
 
