@@ -7,7 +7,7 @@ tags: [pseudo]
 image: impermanence_06.png
 ---
 
-> It was as if the mountains when seen through many millenniums would rise and fall like waves in water. ——from the Vishnu mythology.
+> It was as if the mountains when seen through many millenniums would rise and fall like waves in water. ——from the Vishnu mythology.  
 >「遙望千年群山，層巒疊嶂，宛若波湧漣起」——原文出自印度毗濕奴神話
 
 《無常》結合舞蹈、互動科技與視覺藝術，由科技藝術家謝啟民、編舞家吳秀蓮與製作人杜玉玲帶領團隊共同創作之跨領域舞蹈作品。
@@ -16,7 +16,10 @@ image: impermanence_06.png
 
 “Impermanence”  is  a  work  combining  dance,  interactive  technology,  and  visual  arts,  which  integrates   powerful  body  languages  with  elegantly  flowing  images  produced  by  computer  simulation.  It  explores  the   “permanence”  and  “impermanence”  of  life  through  the  observation  of  the  flow  phenomena  in  the  nature   as  well  as  intricately  changing  interpersonal  relationships.  It  further  discusses  the  dichotomy  of  “usual”   and  “unusual.”  While  the  usual  represents  what  is  accumulating  slowly  in  everyday  life,  the  unusual   reflects  the  yearning  for  escaping  from  the  present  moment.
 
-Creative Director：Chi-Min Hsieh, Shiu-Lien Wu, Yu-Ling Du.
+Creative Director：  
+Tech-Art Artist：Chi-Min Hsieh  
+Choreographer：Shiu-Lien Wu  
+Dance Producer：Yu-Ling Du  
 
 
 <!-- Modified from https://github.com/nathancy/jekyll-embed-video -->
