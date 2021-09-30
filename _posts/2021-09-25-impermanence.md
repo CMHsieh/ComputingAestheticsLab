@@ -16,10 +16,10 @@ image: impermanence_06.png
 
 “Impermanence”  is  a  work  combining  dance,  interactive  technology,  and  visual  arts,  which  integrates   powerful  body  languages  with  elegantly  flowing  images  produced  by  computer  simulation.  It  explores  the   “permanence”  and  “impermanence”  of  life  through  the  observation  of  the  flow  phenomena  in  the  nature   as  well  as  intricately  changing  interpersonal  relationships.  It  further  discusses  the  dichotomy  of  “usual”   and  “unusual.”  While  the  usual  represents  what  is  accumulating  slowly  in  everyday  life,  the  unusual   reflects  the  yearning  for  escaping  from  the  present  moment.
 
-Creative Director：
-Tech-Art Artist：Chi-Min Hsieh
-Choreographer：Shiu-Lien Wu
-Dance Producer：Yu-Ling Du
+Creative Director：  
+Tech-Art Artist：Chi-Min Hsieh  
+Choreographer：Shiu-Lien Wu  
+Dance Producer：Yu-Ling Du  
 
 <!-- Modified from https://github.com/nathancy/jekyll-embed-video -->
 <div class="iframe-container">
