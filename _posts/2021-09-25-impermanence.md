@@ -14,7 +14,8 @@ image: impermanence_06.png
 模擬自然界中的各種流動現象，探討人際的繁複流動；以流體模擬計算出優雅的流動影像，以群體模擬揣摩複雜的社群變遷，搭配上俐落、充滿能量的肢體語彙和巧妙設計的多段群舞。
 透過觀察自然中的各種流動現象以及人際的繁複變化——或狂戀、或依賴、或爭奪、或背叛、或游移，探索生命中的「常」與「無常」，並從兩者的交錯關係中，得出「無常亦常」的體悟。
 
-<!-- Modified from https://github.com/nathancy/jekyll-embed-video -->
+<!-- Modified from https://github.com/nathancy/jekyll-embed-video 
+<!-- 
 <div class="iframe-container">
     <iframe
         width="600" height="338"
@@ -24,4 +25,4 @@ image: impermanence_06.png
         allowfullscreen>
     </iframe>
 </div>
-
+-->
