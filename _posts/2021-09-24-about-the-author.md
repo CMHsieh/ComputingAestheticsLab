@@ -4,7 +4,7 @@ title: "About the Author"
 author: "CMH"
 categories: about
 tags: [about]
-image: BlackPaysage_02.png
+image: BlackPaysage_03.png
 ---
 
 謝啟民 | 
