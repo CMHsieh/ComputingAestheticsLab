@@ -7,7 +7,7 @@ tags: [pseudo]
 image: impermanence_06.png
 ---
 
-> It was as if the mountains when seen through many millenniums would rise and fall like waves in water. ——from the Vishnu mythology.  
+> It was as if the mountains when seen through many millenniums would rise and fall like waves in water, from the Vishnu mythology.  
 >「遙望千年群山，層巒疊嶂，宛若波湧漣起」——原文出自印度毗濕奴神話
 
 《無常》結合舞蹈、互動科技與視覺藝術，由科技藝術家謝啟民、編舞家吳秀蓮與製作人杜玉玲帶領團隊共同創作之跨領域舞蹈作品。
