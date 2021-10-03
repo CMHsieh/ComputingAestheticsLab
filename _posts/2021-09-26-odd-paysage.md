@@ -9,7 +9,7 @@ image: OddPaysage_02.jpg
 
 《歧異的風景》The Odd Paysage  
 年份：2020  
-程式技法：GLSL Shading、Raymarching Algorithm、Volume Rendering  
+技法：GLSL Shading、Raymarching Algorithm、Volume Rendering  
 關鍵字：仿生人造風景、人工生命演化機制、電腦生成影像、即時互動程式  
 概念：  
 >雲煙走過山與海，錯身而過的萬物，沾染上它的氣息，它駐足卻不曾停止。《歧異的風景》由雲去描繪雲，仿生命機制從繁衍中產生變異，再以時間為天擇，變異疊代又歸於幽黯朦朧。  
