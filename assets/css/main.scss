@@ -27,3 +27,17 @@ $codepen-color: black;
 $rss-color: #ff6600;
 
 @import "-sections-dir";
+
+article p:hover{
+	 color: #F2AC57;
+}
+
+::-moz-selection{ /*Firefox*/
+	color: rgba(255, 255, 255, 1);
+	background: #000;
+}
+
+::selection{
+	color: rgba(255, 255, 255, 1);
+	background: #000;
+}

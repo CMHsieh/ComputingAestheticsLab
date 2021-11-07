@@ -1,14 +1,3 @@
-
-::-moz-selection{ /*Firefox*/
-	color: rgba(255, 255, 255, 1);
-	background: #000;
-}
-
-::selection{
-	color: rgba(255, 255, 255, 1);
-	background: #000;
-}
-
 code,
 pre {
   font-family: $code-font-family
