@@ -1,3 +1,9 @@
+::selection{
+	color: rgba(255, 255, 255, 1);
+	background: #000;
+}
+
+
 .site-header {
   min-height: 56px;
   width: $container-width;
@@ -37,6 +43,10 @@
 }
 .menu-link {
   padding: 5px 10px;
+}
+
+.menu-link a:hover{
+	 color: #F2AC57;
 }
 
 /*
