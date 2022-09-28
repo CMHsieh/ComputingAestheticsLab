@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About the Lab."
+title: "About the Lab"
 author: "CMH"
 categories: techart
 tags: [about,techart]
