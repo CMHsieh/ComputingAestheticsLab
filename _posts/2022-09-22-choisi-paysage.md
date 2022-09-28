@@ -10,7 +10,7 @@ image: ChoisiPaysage_01.jpg
 《注定風景》Un Paysage Choisi  
 年份：2022  
 技法：Procedural fBm Terrain、Hydraulic Erosion、GLSL、Raymarching  
-關鍵字：熵與亂、時間天擇、三逺法  
+關鍵字：熵與亂、郭熙林泉高致、三逺法  
 概念：  
 >「遙望千年群山，層巒疊嶂，宛若波湧漣起」出自印度毗濕奴神話，假若人的生命尺度足夠長久以瞥見山嶽起伏，仰望大山的崇高寧靜，能否也蘊含著大海般遼闊包容。  
 
