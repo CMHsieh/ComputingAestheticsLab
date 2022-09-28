@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "演算美學實驗室"
+title: "About the Lab."
 author: "CMH"
 categories: techart
 tags: [about,techart]
