@@ -4,7 +4,7 @@ title: "《注定風景》"
 author: "CMH"
 categories: imitative
 tags: [imitative]
-image: ChoisiPaysage_01.jpg
+image: ChoisiPaysage_02.jpg
 ---
 
 《注定風景》Un Paysage Choisi  
