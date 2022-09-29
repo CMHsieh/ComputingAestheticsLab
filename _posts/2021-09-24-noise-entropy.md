@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Noise and Entropy"
+title: Noise and Entropy
 author: "CMH"
 categories: techart
 tags: [about,techart]
