@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Noise and Entropy
+title: 熵與亂
 author: "CMH"
-categories: techart
-tags: [about,techart]
+categories:
+tags: [aesthetics,techart]
 image: BlackPaysage_01.png
 ---
 
