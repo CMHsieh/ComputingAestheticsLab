@@ -12,4 +12,4 @@ image:
 
 Chi-Min HSIEH, Associate Professor at the Institute of Applied Arts, National Yang Ming Chiao Tung University. He holds a PhD in Art, Science and Technologies from the Institut National Polytechnique de Grenoble in France. Chi-Min has been focusing on interdisciplinary performances that integrate dance, computer graphics, animation and interactive technologies. At the moment, he engages in the advanced dialogue between algorithmic aesthetics and performing arts. His representative works include Impermanence created with choreographer Wu Shiu-Lien in 2014, Ravel’s Gaspard de la Nuit created with pianist Hsin Hsing-Chwen in 2016, The Ancient Paysage imitating the ocean in 2018, The Odd Paysage in 2020, and Un Paysage Choisi in 2022.  
 
-[About the Lab]({{ site.github.url }}{% post_url 2021-09-23-about-the-lab %}).
+[About the Lab]({{ site.github.url }}{% post_url 2000-01-01-about-the-lab %}).
