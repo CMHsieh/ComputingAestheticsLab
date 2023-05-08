@@ -2,7 +2,7 @@
 layout: post
 title: "About the Lab"
 author: "CMH"
-categories:
+categories: about
 tags: [about]
 image:
 ---
