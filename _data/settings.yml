@@ -10,7 +10,8 @@ menu:
 - {name: '仿山水', url: 'imitative'}
 - {name: '偽編舞', url: 'pseudo'}
 - {name: '人工美', url: 'artificial'}
-- {name: '美|學',  url: 'lab'}
+- {name: '美|學', url: 'aesthetics'}
+- {name: 'About',  url: 'lab'}
 #- {name: '技|藝',  url: 'techart'}
 #- {name: 'Contact',            url: 'contact'}
 
