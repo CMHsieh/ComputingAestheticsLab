@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Digital Three-Distance Theory"
+title: 數位新三遠
 author: "CMH"
 categories: techart
-tags: [about,techart]
+tags: [techart]
 image: ThreeDistances_03.jpg
 ---
 
@@ -15,5 +15,3 @@ image: ThreeDistances_03.jpg
 [2]北宋 韓拙 《山水純全集》清乾隆間寫文淵閣四庫全書本，國立故宮博物院藏。  
 
 
-[About the Lab]({{ site.github.url }}{% post_url 2021-09-23-about-the-lab %}).
-[About the Author]({{ site.github.url }}{% post_url 2021-09-24-about-the-author %}).
