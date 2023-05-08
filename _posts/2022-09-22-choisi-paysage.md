@@ -9,7 +9,7 @@ image: ChoisiPaysage_02.jpg
 
 《注定風景》Un Paysage Choisi  
 年份：2022  
-技法：fBm Procedural Landscape、Hydraulic Erosion、Subsurface Scattering、GLSL、Raymarching and Signed Distance Fields 
+技法：fBm Procedural Landscape、Hydraulic Erosion、Subsurface Scattering、GLSL、Raymarching and Signed Distance Fields  
 文獻：負熵與資訊美學、郭熙林泉高致  
 概念：  
 >「遙望千年群山，層巒疊嶂，宛若波湧漣起」出自印度毗濕奴神話，假若人的生命尺度足夠長久以瞥見山嶽起伏，仰望大山的崇高寧靜，能否也蘊含著大海般遼闊包容。  
