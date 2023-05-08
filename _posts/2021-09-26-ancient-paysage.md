@@ -24,14 +24,3 @@ image: AncientPaysage_04.jpg
 > 
 > 《最古老的風景》運用電腦圖學理論、人工智慧深度學習的方法，結合中國山水畫論與物理程序運算，遙望古代江湖，展現一個在島嶼成長的人，如何用程式寫生敘說對海的細微體察與情感寄寓。  
 
-
-<!-- Modified from https://github.com/nathancy/jekyll-embed-video -->
-<div class="iframe-container">
-    <iframe
-        width="600" height="338"
-        src="https://youtu.be/K-X9fuDsK40"
-        frameborder="0"
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
-    </iframe>
-</div>
