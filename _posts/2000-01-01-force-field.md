@@ -14,5 +14,5 @@ image: BlackPaysage_01.png
 
 
 
-[About the Lab]({{ site.github.url }}{% post_url 2021-09-23-welcome-to-lab %}).
+[About the Lab]({{ site.github.url }}{% post_url 2021-09-23-about-the-lab %}).
 [About the Author]({{ site.github.url }}{% post_url 2021-09-24-about-the-author %}).
