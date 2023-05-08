@@ -12,5 +12,5 @@ Subsurface及Microfacet theory，分別是建構散逺及微遠的基石。以�
 
 
 
-[About the Lab]({{ site.github.url }}{% post_url 2021-09-23-welcome-to-lab %}).
+[About the Lab]({{ site.github.url }}{% post_url 2021-09-23-about-the-lab %}).
 [About the Author]({{ site.github.url }}{% post_url 2021-09-24-about-the-author %}).
