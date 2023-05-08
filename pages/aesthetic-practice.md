@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Aesthetics
+title: Aesthetic practice
 category: aesthetics
 permalink: /aesthetics
 ---
