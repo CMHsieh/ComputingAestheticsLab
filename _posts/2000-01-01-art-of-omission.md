@@ -2,8 +2,8 @@
 layout: post
 title: 留白新解
 author: "CMH"
-categories: techart
-tags: [techart]
+categories: aesthetics
+tags: [aesthetics]
 image: Emptiness_01.jpg
 ---
 
