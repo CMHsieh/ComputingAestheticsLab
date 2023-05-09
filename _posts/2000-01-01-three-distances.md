@@ -3,7 +3,7 @@ layout: post
 title: 數位新三遠
 author: "CMH"
 categories: aesthetics
-tags: [techart]
+tags: [aesthetics, techart]
 image: ThreeDistances_03.jpg
 ---
 
@@ -11,6 +11,7 @@ image: ThreeDistances_03.jpg
   
 仿山水系列參照宋代畫論，不斷探問數位生成藝術相較於傳統水墨山水畫特性，萃取電腦模擬與程序化生成具有動態演變(時間性)及視角相依(由觀者互動重新定義畫布視角關係)二項特性，意圖以演算思維建構數位山水觀。並立基於電腦圖學理論提煉出微結構、量體、時間因子，進而提出數位新三遠美學論述──微觀分子運動，謂之微遠；光線在水或大氣介質中的散射及衰減，謂之散遠；時間記憶的朦朧模糊，謂之久遠──。  
   
+
 數位新三遠| 特徵         | 實踐技法                                               | 韓拙三遠
 -------- | :--------- | :----------------------                               | :----
 **微遠** | 微結構       | Microfacet-based BRDF, Subsurface scattering, Fresnel | 闊遠
