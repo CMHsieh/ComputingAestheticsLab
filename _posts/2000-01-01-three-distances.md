@@ -4,7 +4,7 @@ title: 數位新三遠
 author: "CMH"
 categories: techart
 tags: [techart]
-image: ThreeDistances_01.jpg
+image: ThreeDistances_03.jpg
 ---
 
 宋代郭熙提出三遠法：高遠、平遠、深遠[1]，構圖佈局重視山川磅礴。之後，韓拙《山水純全集》提出水景新三遠：闊遠、迷遠、幽遠[2]，著重偏安江南後的迷濛煙雨風情，擅長於氛圍營造，也展現南宋文人對於水的觀察及意境詩意。   
