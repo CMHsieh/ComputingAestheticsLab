@@ -13,8 +13,8 @@ image: ThreeDistances_03.jpg
 數位新三遠  | 特徵   | 實踐技法                | 韓拙三遠
 --------- | :----- | :-------------------- | :-----------
 微遠       | 微結構 | Microfacet-based BRDF, Subsurface scattering, Fresnel | 闊遠
-散遠       | 量體感 | Volume rendering      | 迷遠
-久遠       | 時間性 | Iterated framebuffer blending | 幽遠
+散遠       | 量體感 | Volume rendering, Volumetric density fields    | 迷遠
+久遠       | 時間性 | Iterated framebuffer blending, timelapse averaging | 幽遠
 
 
 
