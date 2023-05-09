@@ -2,7 +2,7 @@
 layout: post
 title: 數位新三遠
 author: "CMH"
-categories: techart
+categories: aesthetics
 tags: [techart]
 image: ThreeDistances_03.jpg
 ---
