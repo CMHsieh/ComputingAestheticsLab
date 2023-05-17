@@ -21,7 +21,9 @@ image: ThreeDistances_03.jpg
   
 [1]北宋 郭熙 《林泉高致集·山水訓》  
 [2]南宋 韓拙 《山水純全集》清乾隆間寫文淵閣四庫全書本，國立故宮博物院藏。  
-[3]數位新三遠之實踐，微遠可見於《最古老的風景》藍眼淚、金鳳凰二景、《注定風景》冰山、黑山二景;散遠可見於《歧異的風景》鬱金一景;久遠可見於《最古老的風景》黑岩與太初。<div class="related-thumbnail"><img src="{{ site.github.url }}/assets/img/ThreeDistances_02.png"></div>
+[3]數位新三遠之實踐，微遠可見於《最古老的風景》藍眼淚、金鳳凰二景、《注定風景》冰山、黑山二景;散遠可見於《歧異的風景》鬱金一景;久遠可見於《最古老的風景》黑岩與太初。
+  
+<div class="related-thumbnail"><img src="{{ site.github.url }}/assets/img/ThreeDistances_02.png"></div>
   
   
 
