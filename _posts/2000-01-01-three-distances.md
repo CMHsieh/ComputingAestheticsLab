@@ -18,8 +18,10 @@ image: ThreeDistances_03.jpg
 **散遠** | 量體感       | Volume rendering, Volumetric density fields           | 迷遠
 **久遠** | 時間性       | Iterated framebuffer blending, Timelapse averaging    | 幽遠
   
-  
-#<img src="{{ site.github.url }}/assets/img/ThreeDistances_03.jpg", alt="數位新三遠示意">
+
+<div class="related-thumbnail">
+                    <img src="{{ site.github.url }}/assets/img/ThreeDistances_01.png", alt="fig">
+</div>
   
   
 [1]北宋 郭熙 《林泉高致集·山水訓》  
