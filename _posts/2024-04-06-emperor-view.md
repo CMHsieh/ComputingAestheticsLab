@@ -4,7 +4,7 @@ title: 《國王的風景》
 author: "CMH"
 categories: artificial
 tags: [artificial]
-image: EmperorWorld_01.jpg
+image: EmperorWorld_01.png
 ---
 
 The artwork indicates a transition from computational aesthetics to computational neuroaesthetics, integrating insights from neuroscience and the study of the brain.
