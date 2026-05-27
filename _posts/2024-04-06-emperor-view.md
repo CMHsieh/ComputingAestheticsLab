@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工美"
+title: 《國王的風景》
 author: "CMH"
 categories: artificial
 tags: [artificial]
