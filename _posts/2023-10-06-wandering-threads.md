@@ -4,7 +4,7 @@ title: 《經緯之亂》
 author: "CMH"
 categories: artificial
 tags: [artificial]
-image: WanderingThreads_03.png
+image: WanderingThreads_04.jpg
 ---
 
 《經緯之亂》以纖維造山水，粒子運動摹擬經緯交織，加上縱深維度與時間，創造千絲萬縷虛擬空間。進一步闡述，取徑古老的提花技藝，以電腦運算之量體與精細二特點延伸提花織物，並以亂數擾亂纖維陣列，試圖喚起可連結身體觸感之材質經驗，探索數位載體之物質性。
