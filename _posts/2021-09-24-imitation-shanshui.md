@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "仿山水"
+title: 「仿山水」
 author: "CMH"
 categories: imitative
 tags: [imitative]
