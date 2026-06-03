@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人工美"
+title: 「人工美」
 author: "CMH"
 categories: artificial
 tags: [artificial]
