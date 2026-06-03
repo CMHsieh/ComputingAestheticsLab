@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 120HzCave
+title: 《計畫》
 author: "CMH"
 categories: artificial
 tags: [artificial]
